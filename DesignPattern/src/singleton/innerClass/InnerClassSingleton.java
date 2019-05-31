@@ -1,5 +1,8 @@
 package singleton.innerClass;
 
+/**
+ * 推荐使用1
+ */
 public class InnerClassSingleton {
 
 	private InnerClassSingleton(){}

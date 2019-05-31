@@ -6,7 +6,7 @@ public class MainTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("组合模式：简单结构代买");
+		System.out.println("组合模式：简单结构代码");
 		
 		
 		Composite root = new Composite("树根");

@@ -13,24 +13,24 @@ public class MainTest {
 		
 		//用户提出折扣需求
 		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
-		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
+//		c.requestDiscount();
 	}
 
 
